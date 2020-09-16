@@ -6,3 +6,7 @@ In repl.it, add the following in pyproject.toml:
 
 Add the following to requirements.txt:
 * tbd
+
+Avoid using "-" or "_" in name or repo
+
+Package needs a setup.py file
