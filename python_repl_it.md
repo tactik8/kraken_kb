@@ -1,0 +1,8 @@
+  
+# Adding a package from github
+In repl.it, add the following in pyproject.toml:
+* [tool.poetry.dependencies]
+* krakenhelper = { git = "https://github.com/tactik8/krakenhelper"}
+
+Add the following to requirements.txt:
+* tbd
